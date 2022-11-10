@@ -115,13 +115,13 @@
         "title":"React Redux Tic-Tac-Toe",
         "category":"A React Redux based Tic-Tac-Toe App.",
         "image":"06.jpg",
-        "url":"https://github.com/lcaladoferreira/react-elections"
+        "url":"http://jogo-da-velha-react-redux.vercel.app/"
       },
       {
         "title":"React-Elections",
         "category":"A React based Elections App.",
         "image":"05.jpg",
-        "url":"http://jogo-da-velha-react-redux.vercel.app/"
+        "url":"https://github.com/lcaladoferreira/react-elections"
       },
       {
         "title":"VanillaJS Clock",
