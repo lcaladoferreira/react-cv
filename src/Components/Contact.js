@@ -17,16 +17,21 @@ class Contact extends Component {
         <div className="row">
           <Slide left duration={1000}>
             <div className="eight columns">
-              <form action="mailto:lcaladoferreira@gmail.com" method="post" id="contactForm" name="contactForm" >
+              
                 <fieldset>
-                  <div>
-                    <button className="submit">click to send me an e-mail</button>
+                  <div><a href="https://wa.me/5511987766080">
+                    <button className="fa-whatsapp">
+                      click here to send me a message
+                    </button>
+                    </a>
                     <span id="image-loader">
-                      <img alt="" src="images/loader.gif" />
+                      <img alt="whatsapp" className="fa fa-whatsapp" src="images/loader.gif" />
                     </span>
                   </div>
+                  <div>
+                  </div>
                 </fieldset>
-              </form>
+             
             </div>
           </Slide>
 
