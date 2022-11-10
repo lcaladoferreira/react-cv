@@ -1,0 +1,140 @@
+{
+  "main": {
+    "name":"Leandro Calado",
+    "description":"I am a web development engineer and I used React.js to develop this page",
+    "image":"profilepic.jpg",
+    "bio":"Full Stack Developer with hands-on experience designing, developing, and implementing applications and solutions using a range of technologies and programming languages. Always seeking to leverage experience in Full-stack Node.js development, database integrations and Angular/React frontend applications, implementing solutions with data protection by design and default.",
+    "contactmessage":"🅺🅴🅴🅿 🅸🅽 🆃🅾🆄🅲🅷",
+    "email": "lcaladoferreira@gmail.com",
+    "phone": "+55 11 987.766.080",
+    "github":"https://github.com/lcaladoferreira",
+    "project":"https://linktr.ee/lcaladoferreira",
+    "address":{
+      "street":"R. Andre Fernandes, 205a",
+      "city":"São Paulo",
+      "state":"São Paulo",
+      "zip": "4536-020"
+    },
+    "website": "https://linktr.ee/lcaladoferreira",
+    "resumedownload":"https://docs.google.com/document/d/1glsnQt1DQK-CHAwNsl4w_ruPmKmuqAJ7/edit?usp=sharing&ouid=114515180996662894661&rtpof=true&sd=true",
+    "social":[
+      
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/lcaladoferreira/",
+        "className":"fa fa-linkedin"
+      },
+      
+      {
+        "name":"github",
+        "url":"https://github.com/lcaladoferreira",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"XP Educação",
+        "degree":"Masters in Business Administration in Frontend Development",
+        "graduated":"Dec 2022",
+        "description":"Angular, Vue.js and React"
+      },
+      {
+        "school":"Digital House do Brasil",
+        "degree":"Nanodegree in Full Stack Node Development",
+        "graduated":"Ago 2022",
+        "description":"Node, Express.js, MySql, PostgreSQL, MVC Architecture"
+      }
+    ],
+    "work":[
+      {
+        "company":"Skipp",
+        "title":"Full Stack Developer ",
+        "years":"Ago 2022 - Present",
+        "description":"E-commerce development with MVC architecture in Node(Express) with BackEnd using Express-session, Express-validator, Cookie-parser, Multer, uuidv4, Ejs, using Database in mySQL, using an authentication system with Bcryp."
+      },
+      {
+        "company":"Tecnologia Colmeia",
+        "title":"Javascript Developer",
+        "years":"Fev 2022 - Ago 2022",
+        "description":"Development of Angular SaaS solution, implementing services as: Websockets, Bcrypt and RTP, Fetch.ai Django API, and implementing of database integration using Express.js and Postgresql."
+      },
+      {
+        "company":"Open Collective",
+        "title":"Web Developer",
+        "years":"Nov 2021 - Jul 2022",
+        "description":"SaaS solution based on React, basically I was updating privacy policies under GDPR law, giving assistance in HTML5 semantics and development of special meta tags for the Portuguese."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Javascript",
+        "level":"60%"
+      },
+      {
+        "name":"Typescript",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"60%"
+      },
+      {
+        "name":"Angular",
+        "level":"60%"
+      },
+      {
+        "name": "Bootstrap",
+        "level":"60%"
+      },
+      {
+        "name": "Material-UI",
+        "level":"60%"
+      },
+      {
+        "name":"Express.js",
+        "level":"50%"
+      },
+      {
+        "name":"Node", 
+        "level":"60%"
+      },
+      {
+        "name":"Google Cloud",
+        "level":"30%"
+      }
+      
+    ]
+  },
+  "portfolio":{
+    "projects": [
+
+      {
+        "title":"React Redux Tic-Tac-Toe",
+        "category":"A React Redux based Tic-Tac-Toe App.",
+        "image":"06.jpg",
+        "url":"https://github.com/lcaladoferreira/react-elections"
+      },
+      {
+        "title":"React-Elections",
+        "category":"A React based Elections App.",
+        "image":"05.jpg",
+        "url":"http://jogo-da-velha-react-redux.vercel.app/"
+      },
+      {
+        "title":"VanillaJS Clock",
+        "category":"A VanillaJS based Clock App.",
+        "image":"07.jpg",
+        "url":"https://codepen.io/lcaladoferreira/pen/NWYzGQp"
+      },
+      {
+        "title":"React Calendar",
+        "category":"A React based Calendar App.",
+        "image":"08.jpg",
+        "url":"https://github.com/lcaladoferreira/react-calendar"
+      }
+    ]
+  }
+}
